@@ -1,7 +1,3 @@
 # Python-of-Computer-Vision-using-OpenCV
-Basics of OpenCV
-
-Edge detection in x-axis and y-axis using Sobel filter.
-
-Sobel Operator
-The Sobel operator, sometimes called the Sobel–Feldman operator or Sobel filter, is used in image processing and computer vision, particularly within edge detection algorithms where it creates an image emphasising edges.
+Basics of OpenCV.
+For beginners who want to learn basics of Image processing
