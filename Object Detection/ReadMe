@@ -4,4 +4,8 @@ Topics covered:
             a.) Most basic form of object detection.
             b.) Given a template, It scans over the large image trying to find a match between the template and the large image 
             c.) There are few comparison methods used for comparing template and the large image for detection. All of the are present in the code.
+
+2.) Corner Detection: A corner is a point whose local neighborhood stands in two dominant and different edge directions. 
+                      In other words, a corner can be interpreted as the junction of two edges, where an edge is a sudden change in image brightness.
+                      For detecting corners I used 2 quite famous algorithms: Haris Corner Detection and Shi Tomasi Corner detecction.
        
