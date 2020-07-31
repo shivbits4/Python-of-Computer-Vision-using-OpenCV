@@ -1,0 +1,6 @@
+Topics covered:
+
+1.) Template matching: 
+            a.) Most basic form of object detection.
+            b.) Given a template, It scans over the large image trying to find a match between the template and the large image 
+       
